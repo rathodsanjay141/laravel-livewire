@@ -1,4 +1,4 @@
-# [Demo Admin Panel - Laravel (V.10.0) Livewire (0V.3.0)](https://github.com/rathodsanjay141/laravel-livewire)
+# [Demo Admin Panel - Laravel (V.10.0) and Livewire (0V.3.0)](https://github.com/rathodsanjay141/laravel-livewire)
  
 ## Installation
 
