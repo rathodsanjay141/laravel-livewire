@@ -1,5 +1,13 @@
 # [Demo Admin Panel - Laravel (V.10.0) and Livewire (0V.3.0)](https://github.com/rathodsanjay141/laravel-livewire)
  
+##Prerequisites
+
+Before we start, make sure you have the following installed:
+
+1. Laravel version 10 or later
+2. PHP version 8.1 or later
+
+
 ## Installation
 
 1. Unzip the downloaded archive
